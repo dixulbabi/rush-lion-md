@@ -1,29 +1,29 @@
 
 
-# `XLICON-V3-MD`
+# `rush-lion-md762498519´
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=rush-lion-md-✨sl✨sri✨lankan✨)
 <p align="center">
   
->XLICON-V3-MD is based on :
+>rush-lion-md is based on :
 >- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
 >
 > :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![rush-lion-md](https://telegra.ph/file/c8c652d0c0306a22a537f.jpg)](https://youtube.com/@s4salmanyt)
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dixulbabi"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About rush-lion-md**
+rush-lion-md is a Cool Multi-Device WhatsApp bot developed by [rush](https://github.com/dixulbabi). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rush-lion-md}/count.svg" alt="rush :: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
@@ -42,13 +42,13 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*rush-lion-md* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
 -------
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find rush-lionMD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -60,7 +60,6 @@ Thanks to all contributors! 🚀
 Scan qr code from the above button, u can pay through Buy Me A Coffee...
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -187,64 +186,47 @@ NOW Deploy👇
 
 ***Deploy on Heroku Video ⇓***
  <p align="left">
-<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
- </p>
- </br>
- 
-***Logs Error Fix Video ⇓***
- <p align="left">
-<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
-   
-## `CREDITS` 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="wa.me//+94762498519?text=HALOW✨RUSH✨I✨NEED✨CONTACT✨"><img src="https://github.com/dixulbabi.png" width="250" height="250" alt="rush"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**rush-lion-md** - By `srush`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
 <a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
   
-**XLICON-V3** - By `Slahser Senpai`
+**rush-lion-md** - By `Slahser Senpai`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🏷️ `Contributer` 
 <a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
   
-**XLICON-V3** - By `Dragiez`
+**rush-lion-md** - By `Dragiez`
 <br>
 `Development , Features Enhancement , Code Testing`
 
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **wa Us:** [wa.me//+94762498519?text=HALOW✨RUSH✨I✨NEED✨CONTAC✨]
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+- [`Official Group`](https://chat.whatsapp.com/Lm2jS45bor47gNpchxoq9W)
+- [`Support Gc`](https://chat.whatsapp.com/Lm2jS45bor47gNpchxoq9W)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/94762498519?text=Hi!! rush, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
 
-<p align="left">
-Click On The Link To Donate ME...
-</p>
 
 
 - **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
@@ -268,7 +250,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/<your gitHub Username>/XLICON-V3-MD.git
-cd XLICON-V3-MD
+cd rush-lion-MD
 
 npm start
 ```
